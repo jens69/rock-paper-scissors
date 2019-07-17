@@ -1,0 +1,47 @@
+* {
+    background-color: #1c858c;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#main-header  h1 {
+    margin: 0 0 $lh 0;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    font-size: 1em;
+    padding-bottom: 2em;
+}
+
+#main-header img:hover {
+    transform: scale(1.1);
+}
+
+
+#main-header {
+    text-align: center;
+    padding-top: 10em;
+    padding-bottom: 5em;
+}
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10;
+}
+
+#bottom-info  h1,p {
+    font-size: 1.2em;
+    text-align: center;
+    margin: 0 0 $lh 0;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+#bottom-info h1 {
+    color: #FFC107;
+    padding: 1.5em;
+    text-decoration: 
+}
+
